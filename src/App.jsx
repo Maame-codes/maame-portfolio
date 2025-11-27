@@ -525,7 +525,7 @@ const Contact = () => (
             <Linkedin size={24} />
           </a>
           <a
-            href="#"
+            href="https://github.com/Maame-codes"
             className="hover:text-primary transition-colors duration-300 hover:scale-110 transform"
           >
             <Github size={24} />
