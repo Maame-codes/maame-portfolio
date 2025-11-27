@@ -22,7 +22,7 @@ const data = {
   role: "Junior Software Engineer",
   aboutHeadline: "Building digital experiences that matter.",
   aboutSummary:
-    "I am a Junior Software Engineer driven by a strong sense of tech enthusiasm and a passion for creating. I specialize in developing functional, scalable systems and constantly seek out new methodologies and emergent practices to engineer robust, user-centric solutions to real-world challenges.",
+    "Driven by a strong sense of tech enthusiasm and a passion for creating. I specialize in developing functional, scalable systems and constantly seek out new methodologies and emergent practices to engineer robust, user-centric solutions to real-world challenges.",
   linkedin: "https://www.linkedin.com/in/maame-afua-a-p-fordjour-100585171",
   email: "maameafia272@gmail.com",
   phone: "+447720186199",
