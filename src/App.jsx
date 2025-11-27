@@ -266,7 +266,7 @@ const Hero = () => (
         className="text-lg text-gray-600 max-w-2xl mb-10 leading-relaxed animate-fade-in-up opacity-0"
         style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
       >
-        I'm a {data.role} & Master's Student focused on crafting clean,
+        I'm a {data.role} based in London focused on crafting clean,
         user-centric web interfaces. I blend technical expertise with design
         principles to solve complex problems.
       </p>
