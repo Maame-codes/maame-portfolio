@@ -311,7 +311,7 @@ const About = () => (
       <div className="h-[450px] rounded-3xl overflow-hidden shadow-2xl border-[6px] border-white transform transition-all duration-500 hover:scale-[1.02] hover:shadow-primary/20 hover:-rotate-1 group">
         <div className="absolute inset-0 bg-primary/10 group-hover:bg-transparent transition-colors duration-500 z-10"></div>
         <img
-          src="/image_0.png"
+          src="/image_0.jpg"
           alt="Maame Afua Fordjour"
           className="w-full h-full object-cover object-top transform transition-transform duration-700 group-hover:scale-110"
         />
