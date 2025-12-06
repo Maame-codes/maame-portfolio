@@ -56,7 +56,7 @@ const data = {
       description:
         "A profitability & waste tracker for restaurants. Allows kitchen staff to instantly log wasted ingredients via a search-and-autofill interface, calculating real-time financial loss.",
       tech: ["React", "Vite", "Node.js", "Netlify"],
-      liveLink: "https://wasteplate.netlify.app/",
+      liveLink: "https://wasteplate-app.vercel.app/",
       image: "wasteplate.png",
     },
     {
